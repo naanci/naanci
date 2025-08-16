@@ -1,10 +1,10 @@
 ## Hi! I'm Nancy 👋
 Welcome to my Github! I'm an Information Systems and Applied Mathematics & Statistics major with a strong interest in both the technical and creative side of computing.
 
-# Skills
+## Skills
 Programming Languages: Java, Python, JavaScript
 
-## Let's Connect!
+## 💬 Let's Connect!
 Email: naancyhuang@gmail.com
 Linkedin: www.linkedin.com/in/nancyyy-huang
 <!--
